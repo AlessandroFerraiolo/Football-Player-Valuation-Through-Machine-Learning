@@ -8,7 +8,7 @@ The core of this project is a Gradient Boosting Regressor, chosen for its abilit
 
 For a comprehensive explanation of the project, including detailed discussions on feature selection, model evaluation, and interpretation of the results, **please read the full project report:**
 
-➡️ **[FROM PITCH TO PRICE.pdf](FROM%20PITCH%20TO%20PRICE.pdf)**
+➡️ **[From Pitch to Price.pdf](From%20Pitch%20to%20Price.pdf)**
 
 ## 🚀 Key Features & Methodology
 
